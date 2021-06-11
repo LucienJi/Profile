@@ -1,0 +1,387 @@
+Word 	 Multiple tags
+. : dict_keys(['O', 'I-MISC', 'I-LOC', 'I-ORG'])
+	 O in sentence
+	 EU rejects German call to boycott British lamb .
+	 I-MISC in sentence
+	 Among the latter were gun control advocate Sarah Brady and actor Christopher Reeve and the politicians included Rep .
+	 I-LOC in sentence
+	 Eau Claire , Wisc .
+	 I-ORG in sentence
+	 Robert W. Baird & Co .
+----------------------------
+Word 	 Multiple tags
+'s : dict_keys(['O', 'I-ORG', 'I-MISC', 'I-LOC'])
+	 O in sentence
+	 Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .
+	 I-ORG in sentence
+	 that is to end the state of hostility , " Thursday 's overseas edition of the People 's Daily quoted Tang as saying .
+	 I-MISC in sentence
+	 Goldman , whose Oscars were for " Butch Cassidy and the Sundance Kid " and " All the President 's Men " , earlier this summer criticised some of the season 's blockbusters .
+	 I-LOC in sentence
+	 I 'm surprised anyone could even find us out here , " said Fannie Johnson , a member of St. Matthew 's , who said she believed arson was to blame .
+----------------------------
+Word 	 Multiple tags
+n't : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 " We do n't support any such recommendation because we do n't see any grounds for it , " the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .
+	 I-MISC in sentence
+	 A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of " Ai n't no telling " , which Hendrix penned on a piece of London hotel stationery in late 1966 .
+----------------------------
+Word 	 Multiple tags
+, : dict_keys(['O', 'I-ORG', 'I-LOC', 'I-MISC'])
+	 O in sentence
+	 " We do n't support any such recommendation because we do n't see any grounds for it , " the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .
+	 I-ORG in sentence
+	 Robert Gutenstein , an analyst for Kalf , Voorhis & Co .
+	 I-LOC in sentence
+	 The Vermonter , which runs between St. Albans , Vermont , near the Canadian border and Washington , D.C. , collided with the truck at 7:51 a.m. EDT near the rural town of Roxbury some 15 miles southeast of the state capital Montpelier , Amtrak spokeswoman Maureen Garrity said .
+	 I-MISC in sentence
+	 Dai 's most famous book , " Ren A Ren " ( People , People ) , was translated into German and English , he said .
+----------------------------
+Word 	 Multiple tags
+( : dict_keys(['O', 'I-ORG', 'I-LOC', 'I-PER'])
+	 O in sentence
+	 Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .
+	 I-ORG in sentence
+	 Mladost ( L ) 0 Zemun 0
+	 I-LOC in sentence
+	 A bus fell from a mountain road into a river in Pakistan-ruled Azad ( free ) Kashmir on Sunday , killing at least 19 people and injuring 11 , police said .
+	 I-PER in sentence
+	 1768 - Francois-Rene ( Vicomte de ) Chateaubriand born .
+----------------------------
+Word 	 Multiple tags
+) : dict_keys(['O', 'I-ORG', 'I-LOC', 'I-PER'])
+	 O in sentence
+	 Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .
+	 I-ORG in sentence
+	 Mladost ( L ) 0 Zemun 0
+	 I-LOC in sentence
+	 A bus fell from a mountain road into a river in Pakistan-ruled Azad ( free ) Kashmir on Sunday , killing at least 19 people and injuring 11 , police said .
+	 I-PER in sentence
+	 1768 - Francois-Rene ( Vicomte de ) Chateaubriand born .
+----------------------------
+Word 	 Multiple tags
+' : dict_keys(['O', 'I-ORG', 'I-MISC'])
+	 O in sentence
+	 Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through " dangerous generalisation . "
+	 I-ORG in sentence
+	 " What we have to be extremely careful of is how other countries are going to take Germany 's lead , " Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .
+	 I-MISC in sentence
+	 Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .
+----------------------------
+Word 	 Multiple tags
+U.S. : dict_keys(['I-LOC', 'I-MISC', 'I-ORG'])
+	 I-LOC in sentence
+	 A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .
+	 I-MISC in sentence
+	 TENNIS - REVISED MEN 'S DRAW FOR U.S. OPEN .
+	 I-ORG in sentence
+	 In Home Health Inc said on Thursday it will appeal to the U.S. Federal District Court in Minneapolis a decision by the Health Care Financing Administration ( HCFA ) that denied reimbursement of certain costs under Medicaid .
+----------------------------
+Word 	 Multiple tags
+16 : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .
+	 I-ORG in sentence
+	 DIARIO 16
+----------------------------
+Word 	 Multiple tags
+: : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : " The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . "
+	 I-MISC in sentence
+	 Sairyu Maru No : 2 - ( built 1982 ) 60,960 dwt sold to Greek buyers for $ 15.5 million .
+----------------------------
+Word 	 Multiple tags
+/ : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 German July car registrations up 14.2 pct yr / yr .
+	 I-ORG in sentence
+	 Admira / Wacker 0 Sturm Graz 3
+----------------------------
+Word 	 Multiple tags
+1996 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 The office said 356,725 new cars were registered in July 1996 -- 304,850 passenger cars and 15,613 trucks .
+	 I-MISC in sentence
+	 Machado , 19 , flew to Los Angeles after slipping away from the New Mexico desert town of Las Cruces , where she attended the 1996 Miss Teen USA pageant on Wednesday .
+----------------------------
+Word 	 Multiple tags
+100 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 BayerVB sets C$ 100 million six-year bond .
+	 I-MISC in sentence
+	 London shares , boosted by Wall Street , added to early gains with the blue chip FTSE 100 index hitting a new peak of 3921.8 before dropping back slightly .
+----------------------------
+Word 	 Multiple tags
+S&P : dict_keys(['I-ORG', 'I-MISC'])
+	 I-ORG in sentence
+	 S&P = DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / CA
+	 I-MISC in sentence
+	 The Dow was up eight to 5,731 , while the NASDAQ Index was off fractionally to 1,143 and the S&P Index down one to 666 .
+----------------------------
+Word 	 Multiple tags
+2 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 NEG PLG YES CRS DEFLT NO FORCE MAJ IPMA 2
+	 I-MISC in sentence
+	 Sairyu Maru No : 2 - ( built 1982 ) 60,960 dwt sold to Greek buyers for $ 15.5 million .
+----------------------------
+Word 	 Multiple tags
+One-month : dict_keys(['I-MISC', 'O'])
+	 I-MISC in sentence
+	 One-month interbank deposits were at 5-1/2 , 3/8 percent , three months were 5-5/8 , 1/2 percent and six months were 5-3/4 , 5/8 percent .
+	 O in sentence
+	 One-month swap was at 18.0 / 18.5 , two at 34.0 / 35.0 , three at 52.75 / 53.50 and six at 106.5 / 107.0 points .
+----------------------------
+Word 	 Multiple tags
+76 : dict_keys(['I-MISC', 'O'])
+	 I-MISC in sentence
+	 The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .
+	 O in sentence
+	 76 Scott McCarron
+----------------------------
+Word 	 Multiple tags
+1990 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) " are calling for an immediate lifting of the embargo " imposed on Iraq after its 1990 invasion of Kuwait .
+	 I-MISC in sentence
+	 Blind , who played in the 1990 World Cup and the 1992 European championship , was capped 42 times for the Netherlands .
+----------------------------
+Word 	 Multiple tags
+1 : dict_keys(['O', 'I-ORG', 'I-MISC'])
+	 O in sentence
+	 The company said that during the quarter , which began June 1 , it bought $ 30 million par value of its outstanding 10-3/8 percent senior notes due 2001 .
+	 I-ORG in sentence
+	 " Just about , " he told Europe 1 radio when asked whether he had sent his letter of resignation to Assembly speaker Philippe Seguin .
+	 I-MISC in sentence
+	 BALANCE-Water Dist 1 Johnson Cty , Kan .
+----------------------------
+Word 	 Multiple tags
+31 : dict_keys(['O', 'I-LOC'])
+	 O in sentence
+	 Jul 31 , Jul 31 , Jul 31 , Jul 31 ,
+	 I-LOC in sentence
+	 " His condition is serious , " said Rimma Maslova , deputy chief doctor of Hospital No 31 in the Russian capital . "
+----------------------------
+Word 	 Multiple tags
+96 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 April ' 96 March ' 96 Jan-April ' 96 Jan-April ' 95
+	 I-MISC in sentence
+	 Switzerland failed to progress beyond the opening group phase in Euro 96 .
+----------------------------
+Word 	 Multiple tags
+95 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 April ' 96 March ' 96 Jan-April ' 96 Jan-April ' 95
+	 I-MISC in sentence
+	 Huge Windows 95 sales fail to meet expectations .
+----------------------------
+Word 	 Multiple tags
+3 : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4
+	 I-ORG in sentence
+	 Singapore Refining Company expected to shut CDU 3 .
+----------------------------
+Word 	 Multiple tags
+S. : dict_keys(['I-PER', 'I-MISC', 'I-LOC'])
+	 I-PER in sentence
+	 S. Campbell 69 ; G. Rose 7-73 ) .
+	 I-MISC in sentence
+	 S. Korean won ends up on dollar position unwinding .
+	 I-LOC in sentence
+	 Revered skull of S. Africa king is Scottish woman 's .
+----------------------------
+Word 	 Multiple tags
+W. : dict_keys(['I-PER', 'I-LOC', 'I-ORG'])
+	 I-PER in sentence
+	 At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan
+	 I-LOC in sentence
+	 PRESALE - Marion County Board of Education , W. Va .
+	 I-ORG in sentence
+	 revs won by Robert W. Baird .
+----------------------------
+Word 	 Multiple tags
+F.A. : dict_keys(['I-MISC', 'O'])
+	 I-MISC in sentence
+	 Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .
+	 O in sentence
+	 F.A. : Ferris , Baker Watts , Inc. , Charleston
+----------------------------
+Word 	 Multiple tags
+11 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui
+	 I-MISC in sentence
+	 Best emerged from Chapter 11 bankruptcy protection in June 1994 after 3-1/2 years .
+----------------------------
+Word 	 Multiple tags
+'S : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 TENNIS - REVISED MEN 'S DRAW FOR U.S. OPEN .
+	 I-ORG in sentence
+	 MOODY 'S : A1 S&P : AA- FITCH : AA-
+----------------------------
+Word 	 Multiple tags
+21st : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 The Mariners scored four runs in the top of the fifth to tie the game 5-5 but Ripken led off the bottom of the inning with his 21st homer off starter Sterling Hitchcock ( 12-6 ) .
+	 I-MISC in sentence
+	 to disqualify the national team of Burundi from the 21st African Cup of Nations ...
+----------------------------
+Word 	 Multiple tags
+1,000 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Two world records are in serious danger of being broken at the meeting -- the women 's 1,000 metres and the men 's 3,000 metres .
+	 I-MISC in sentence
+	 Finland 's Juha Kankkunen produced an impressive performance in his Toyota on Saturday to open up a 37 seconds lead after six stages of the 1,000 Lakes Rally , sixth round of the world championship .
+----------------------------
+Word 	 Multiple tags
+& : dict_keys(['I-ORG', 'I-LOC'])
+	 I-ORG in sentence
+	 The NBH is BBB-minus by Duff & Phelps , IBCA and Thomson BankWatch , BB-plus by S&P , BA1 by Moody 's Investors Service , BBB+ by the Japan Credit Rating Agency .
+	 I-LOC in sentence
+	 Issuer : Birmingham Public Park & Rec .
+----------------------------
+Word 	 Multiple tags
+CNB-120 : dict_keys(['B-MISC', 'I-MISC'])
+	 B-MISC in sentence
+	 Czech CNB-120 index rises 1.2 pts to 869.3 .
+	 I-MISC in sentence
+	 The CNB-120 index , a broad daily measure of Czech equities , rose 1.2 points on Thursday to 869.3 , the Czech National Bank ( CNB ) said .
+----------------------------
+Word 	 Multiple tags
+1992 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 In recent months the Shining Path , severely weakened since the 1992 capture of its leader Abimael Guzman , has been stepping up both its military and propaganda activities .
+	 I-MISC in sentence
+	 Blind , who played in the 1990 World Cup and the 1992 European championship , was capped 42 times for the Netherlands .
+----------------------------
+Word 	 Multiple tags
+self-rule : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 A West Bank bookseller charged on Thursday that the Palestinian Information Ministry has forced him to sign an undertaking not to distribute books written by critics of Israeli-PLO self-rule deals .
+	 I-ORG in sentence
+	 Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .
+----------------------------
+Word 	 Multiple tags
+150 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Named " Nirmal Hriday " ( Tender Heart ) , it was the first of a chain of 150 homes for dying , destitute people , admitting nearly 18,000 a year .
+	 I-MISC in sentence
+	 The Airbus 310 Flight 150 , which was hijacked on Monday evening on its way from Khartoum to the Jordanian capital Amman , landed at 4.30 a.m. ( 0330 GMT ) after a flight of more than four hours .
+----------------------------
+Word 	 Multiple tags
+2000 : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 Chua said offenders could face a two-year prison sentence and a maximum fine of 5,000 ringgit ( $ 2000 ) .
+	 I-ORG in sentence
+	 Britain 's Steven Redgrave said on Wednesday he might change his mind and go for a fifth consecutive Olympic gold medal at the 2000 Games in Sydney .
+----------------------------
+Word 	 Multiple tags
+310 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 At Worcester : Warwickshire 310 ( A. Giles 83 , T. Munton 54 not
+	 I-MISC in sentence
+	 Police said an unknown number of hijackers were on board the Airbus 310 which was hijacked on its way from Khartoum to Amman in Jordan .
+----------------------------
+Word 	 Multiple tags
+1000 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Croatian Foreign Minister Mate Granic landed at Belgrade airport aboard a Croatian government jet on Friday morning for talks with his Yugoslav counterparts and a signing ceremony expected around noon ( 1000 GMT ) .
+	 I-MISC in sentence
+	 Tommi Makinen took a significant step towards becoming world rally champion with a brilliant victory in the 1000 Lakes Rally on Monday .
+----------------------------
+Word 	 Multiple tags
+4.0 : dict_keys(['I-MISC', 'O'])
+	 I-MISC in sentence
+	 But now that Windows NT 4.0 has been launched , Winkler and others believe only a relatively small proportion of corporate users will elect to pay the added software and hardware costs needed to use it instead of Windows 95 .
+	 O in sentence
+	 Sprague , Manitoba , on the Minnesota border was the cold spot of the Prairies Monday morning at 4.0 Celsius ( 39.2 F ) .
+----------------------------
+Word 	 Multiple tags
+St. : dict_keys(['I-LOC', 'I-ORG'])
+	 I-LOC in sentence
+	 Mount Zion Missionary Baptist Church and St. Matthews Missionary Baptist Church were both frame structures , each near Turner , Arkansas , a small community surrounded by cotton and soybean fields .
+	 I-ORG in sentence
+	 It was his first win since defeating the St. Louis Cardinals on May 28th , 1994 when he was with the San Diego Padres .
+----------------------------
+Word 	 Multiple tags
+2,000 : dict_keys(['O', 'B-MISC'])
+	 O in sentence
+	 Over 2,000 striking workers voted on Friday to return to work on Monday at Toyota Australia 's Melbourne assembly line , ending a two-week stoppage .
+	 B-MISC in sentence
+	 Weaver shot to prominence in 1994 when he won the English 2,000 Guineas on Mister Baileys in his first ride in a classic .
+----------------------------
+Word 	 Multiple tags
+! : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 It 's not bad for an old man ! "
+	 I-MISC in sentence
+	 ( France ) / David Brabham ( Australia ) Gulf McLaren F !
+----------------------------
+Word 	 Multiple tags
+12th : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 On the back nine Mickelson began driving erratically , and poor tee shots resulted in bogeys on the , eighth , 12th and 13th holes , bringing Mickelson back to four under par , tied with Mayfair , who had parred 14 straight holes after the birdie on no.2 .
+	 I-MISC in sentence
+	 Saleh said the team -- from New York 's Metropolitan Museum -- found four Canopic jars and two unguent jars in the tomb , which belongs to an unidentifed person who lived during the 12th Dynasty ( 1991-1786 BC ) in the Middle Kingdom .
+----------------------------
+Word 	 Multiple tags
+162 : dict_keys(['I-MISC', 'O'])
+	 I-MISC in sentence
+	 Marcos LM600 162
+	 O in sentence
+	 1. Museeuw 162 points
+----------------------------
+Word 	 Multiple tags
+154 : dict_keys(['O', 'I-MISC'])
+	 O in sentence
+	 Pollock , who returns home on Tuesday for an ankle operation , took the last three wickets in nine balls as Worcestershire were dismissed for 154 .
+	 I-MISC in sentence
+	 The Vnukovo Airlines Tupolev 154 flight from Moscow , carrying 129 passengers and a crew of 12 , crashed in bad weather 10 km ( six miles ) east of Longyearbyen , the island 's only airstrip , officials said .
+----------------------------
+Word 	 Multiple tags
+04 : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 Defenders - Frank de Boer ( Ajax ) , John Veldman ( Ajax ) , Jaap Stam ( PSV ) , Arthur Numan ( PSV ) , Michael Reiziger ( AC Milan ) , Johan de Kock ( Schalke ' 04 ) .
+	 I-ORG in sentence
+	 Schalke 04 4 0 3 1 5 9 3
+----------------------------
+Word 	 Multiple tags
+Moslem-Croat : dict_keys(['I-MISC', 'I-LOC'])
+	 I-MISC in sentence
+	 Balloting inside Bosnia is scheduled for September 14 , when citizens are slated to elect municipal and cantonal assemblies , separate Moslem-Croat and Serb parliaments , a national House of Representatives and a three-man Presidency .
+	 I-LOC in sentence
+	 Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska .
+----------------------------
+Word 	 Multiple tags
+Q4 : dict_keys(['O', 'I-ORG'])
+	 O in sentence
+	 Economist Alonso Cervera said the revisions were chiefly fueled by stronger than expected growth of 7.2 percent in the second quarter and he forecast an annual GDP rise of 6.1 percent in the third quarter and 4.9 percent in Q4 .
+	 I-ORG in sentence
+	 RTRS - Newcrest Q4 net profit A$ 4.3 mln .
+----------------------------
+Word 	 Multiple tags
+Fla. : dict_keys(['I-LOC', 'I-ORG'])
+	 I-LOC in sentence
+	 FORT LAUDERDALE , Fla. 1996-08-26
+	 I-ORG in sentence
+	 First Union National Bank of Fla. settles suit .
+----------------------------
+Word 	 Multiple tags
+N.J. : dict_keys(['I-LOC', 'I-PER'])
+	 I-LOC in sentence
+	 ELIZABETH , N.J. 1996-08-27
+	 I-PER in sentence
+	 All Fishermen 's Association secretary N.J. Bose said the strike would continue indefinitely and the fishermen would block road and rail traffic if their demands were not met .
+----------------------------
+Word 	 Multiple tags
+D.C. : dict_keys(['I-LOC', 'I-ORG'])
+	 I-LOC in sentence
+	 The Vermonter , which runs between St. Albans , Vermont , near the Canadian border and Washington , D.C. , collided with the truck at 7:51 a.m. EDT near the rural town of Roxbury some 15 miles southeast of the state capital Montpelier , Amtrak spokeswoman Maureen Garrity said .
+	 I-ORG in sentence
+	 But outside , dozens of protesters from the D.C. Coalition Against Domestic Violence called for the church to support victims of violence instead .
+----------------------------
