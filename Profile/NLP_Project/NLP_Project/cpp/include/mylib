@@ -1,8 +1,0 @@
-#ifndef MYLIB_LIBRARY_H
-#define MYLIB_LIBRARY_H
-
-#include "mylib_bits/svm.hpp"
-#include "mylib_bits/logisticregression.hpp"
-#include "mylib_bits/ConfusionMatrix.hpp"
-#include <Eigen/Dense>
-#endif
